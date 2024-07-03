@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 
 ## Projects
 
-- [Pizza Sales Analysis]: An analysis project providing comprehensive insights into business operations.
+- [Pizza Sales Analysis](https://github.com/karthikeyan-the-analyst/Pizza-Sales-Data-Analysis): An analysis project providing comprehensive insights into business operations.
 - [Bank Loan Analysis](https://www.linkedin.com/posts/karthikeyan-r-analyst_github-karthik-vjaybank-loan-data-analysis-activity-7198579725227737088-iUHe?utm_source=share&utm_medium=member_desktop): Analyzed data to optimize operations and improve guest experience in the bank sector.
 
 
