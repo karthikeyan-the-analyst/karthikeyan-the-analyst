@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=orange)
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 - ![JupyterNotebook](https://img.shields.io/badge/-JupyterNotebook-FFA500?style=flat-square&logo=microsoft-jupyternotebook&logoColor=black)
-- ![Machine Learning](https://img.shields.io/badge/-MachineLearning-217346?style=flat-square&logo=microsoft-machinelearning&logoColor=black)
+- ![Pandas](https://pandas.pydata.org/)
 
 
 
