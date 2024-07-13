@@ -1,6 +1,6 @@
 # Hi there, I'm Karthikeyan! 👋
 
-Welcome to my GitHub profile! I'm passionate about leveraging data analytics to empower businesses to make informed decisions and drive growth. With a strong foundation in tools like Excel, PowerBI, SQL, and Python, I aim to combine technical expertise with business acumen to deliver impactful solutions.
+Welcome to my GitHub profile! I'm passionate about leveraging data analytics to empower businesses to make informed decisions and drive growth. With a strong foundation in TechStacks like Excel, PowerBI, SQL, and Python and Machine Learning, I aim to combine technical expertise with business acumen to deliver impactful solutions.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Karthikeyan-r-analyst&color=blueviolet)
 
