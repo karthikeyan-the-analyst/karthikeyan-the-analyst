@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 
 ## About Me
 
-- 💼 Aspiring Data Analyst
+- 💼 Aspiring Data Analyst and Data Scientist
 - 🌱 Currently pursuing the Boston Data Science Certification
 - 🎓 Bachelor's in Electrical and Electronincs Engineering
 
