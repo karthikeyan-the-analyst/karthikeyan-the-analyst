@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 
 ## About Me
 
-- 💼 Aspiring Data Analyst and Data Scientist
-- 🌱 Currently pursuing the Boston Data Science Certification
+- 💼 Working as Junior Analyst at Zepto
+- 🌱 I completed a Data Science certification at the Boston Institute
 - 🎓 Bachelor's in Electrical and Electronincs Engineering
 
 ## Tech Stacks
